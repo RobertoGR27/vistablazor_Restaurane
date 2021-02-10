@@ -1,0 +1,12 @@
+C:\Users\muere\source\repos\Prueba\Prueba\Shared\bin\Debug\net5.0\Prueba.Shared.deps.json
+C:\Users\muere\source\repos\Prueba\Prueba\Shared\bin\Debug\net5.0\Prueba.Shared.dll
+C:\Users\muere\source\repos\Prueba\Prueba\Shared\bin\Debug\net5.0\ref\Prueba.Shared.dll
+C:\Users\muere\source\repos\Prueba\Prueba\Shared\bin\Debug\net5.0\Prueba.Shared.pdb
+C:\Users\muere\source\repos\Prueba\Prueba\Shared\obj\Debug\net5.0\Prueba.Shared.csprojAssemblyReference.cache
+C:\Users\muere\source\repos\Prueba\Prueba\Shared\obj\Debug\net5.0\Prueba.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muere\source\repos\Prueba\Prueba\Shared\obj\Debug\net5.0\Prueba.Shared.AssemblyInfoInputs.cache
+C:\Users\muere\source\repos\Prueba\Prueba\Shared\obj\Debug\net5.0\Prueba.Shared.AssemblyInfo.cs
+C:\Users\muere\source\repos\Prueba\Prueba\Shared\obj\Debug\net5.0\Prueba.Shared.csproj.CoreCompileInputs.cache
+C:\Users\muere\source\repos\Prueba\Prueba\Shared\obj\Debug\net5.0\Prueba.Shared.dll
+C:\Users\muere\source\repos\Prueba\Prueba\Shared\obj\Debug\net5.0\ref\Prueba.Shared.dll
+C:\Users\muere\source\repos\Prueba\Prueba\Shared\obj\Debug\net5.0\Prueba.Shared.pdb

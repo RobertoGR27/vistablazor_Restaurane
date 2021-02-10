@@ -1,0 +1,15 @@
+#logo[b-tiiypgjk1b] {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+.opciones[b-tiiypgjk1b] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#video_promo[b-tiiypgjk1b] {
+    width: 250px;
+    height: 200px;
+}

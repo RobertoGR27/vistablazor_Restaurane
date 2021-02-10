@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Prueba.Shared/1.0.0": {
+        "runtime": {
+          "Prueba.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prueba.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
